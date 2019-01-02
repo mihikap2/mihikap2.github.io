@@ -58,7 +58,7 @@
     
     line#limit {
         stroke: black;
-        stroke-width: 1;
+        stroke-width: 2;
         opacity: 0.5;
         stroke-dasharray: 7 7;
     }
