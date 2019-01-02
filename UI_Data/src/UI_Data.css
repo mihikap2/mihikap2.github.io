@@ -37,11 +37,12 @@
         width: 100%;
         height: 100%;
     }
-    
+    .barchanged {
+        fill: #00a6ae;
+    }
     .bar {
         fill: #ffbf00;
     }
-    
     text {
         font-size: 10px;
         fill: black;

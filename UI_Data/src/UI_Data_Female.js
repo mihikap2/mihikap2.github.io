@@ -2,53 +2,53 @@ const sample1 = [
     {
       major: "Social Work",
       value: 72.3,
-      color: "#000000"
+      color: "#ffb6c1"
     },
     {
       major: "Special Education",
       value: 72.9,
-      color: "#f9de3f"
+      color: "#32cd32"
     },
     {
       major: "English",
       value: 51.9,
-      color: "#00a2ee"
+      color: "#ffff00"
     },
     {
       major: "Elementary Education",
       value: 86.4,
-      color: "#008fc9"
+      color: "#48d1cc"
     },
     {
       major: "Psychology",
       value: 54.6,
-      color: "#65cedb"
+      color: "#ffb6c1"
     },
     {
       major: "Animal Sciences",
       value: 66.5,
-      color: "#fbcb39"
+      color: "#adff2f"
     },    
     {
       major: "Health Science",
       value: 66.0,
-      color: "#ff6e52"
+      color: "#ff0000"
     },
     {
       major: "HDFS",
       value: 82.6,
-      color: "#007bc8"
+      color: "#00bfff"
     },
     
     {
       major: "Speech & Hearing Sci",
       value: 94.2,
-      color: "#5d2f8e"
+      color: "#ffd700"
     },
     {
       major: "FSHN",
       value: 50.2,
-      color: "#507dca"
+      color: "#66cdaa"
     }
   ];
 
@@ -108,8 +108,10 @@ const sample1 = [
         .transition()
         .duration(300)
         .attr("opacity", 0.6)
+        .style("fill",actual.color)
         .attr("x", a => xScale1(a.major) - 5)
         .attr("width", xScale1.bandwidth() + 10);
+
 
       y = yScale1(actual.value);
 
@@ -144,6 +146,7 @@ const sample1 = [
       d3.select(this)
         .transition()
         .duration(300)
+        .style("fill","#ffbf00")
         .attr("opacity", 1)
         .attr("x", a => xScale1(a.major))
         .attr("width", xScale1.bandwidth());

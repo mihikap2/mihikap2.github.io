@@ -2,52 +2,52 @@ const sample = [
     {
       major: 'Computer Eng.',
       value: 74.3,
-      color: '#000000'
+      color: '#ffff00'
     },
     {
       major: 'Eng. Mechanics',
       value: 71.4,
-      color: '#00a2ee'
+      color: '#00bfff'
     },
     {
       major: 'Physics',
       value: 58.8,
-      color: '#fbcb39'
+      color: '#adff2f'
     },
     {
       major: 'Math & CS',
       value: 65.2,
-      color: '#65cedb'
+      color: '#f08080'
     },
     {
       major: 'Eng. Physics',
       value: 65.8,
-      color: '#ff6e52'
+      color: '#ff0000'
     },
     {
       major: 'Aerospace Eng.',
       value: 69.6,
-      color: '#f9de3f'
+      color: '#ff69b4'
     },
     {
       major: 'Mechanical Eng.',
       value: 56.0,
-      color: '#5d2f8e'
+      color: '#48d1cc'
     },
     {
       major: 'Stats & CS',
       value: 48.8,
-      color: '#008fc9'
+      color: '#ffd700'
     },
     {
       major: 'Electrical Eng.',
       value: 72.2,
-      color: '#507dca'
+      color: '#40e0d0'
     },
     {
       major: 'Technical Systems',
       value: 80.3,
-      color: '#007bc8'
+      color: '#ff6347'
     }
   ];
 
@@ -107,6 +107,7 @@ const sample = [
         .transition()
         .duration(300)
         .attr('opacity', 0.6)
+        .style("fill",actual.color)
         .attr('x', (a) => xScale(a.major) - 5)
         .attr('width', xScale.bandwidth() + 10)
 
@@ -143,6 +144,7 @@ const sample = [
       d3.select(this)
         .transition()
         .duration(300)
+        .style("fill","#ffbf00")
         .attr('opacity', 1)
         .attr('x', (a) => xScale(a.major))
         .attr('width', xScale.bandwidth())
