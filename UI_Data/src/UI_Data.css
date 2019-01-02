@@ -58,8 +58,9 @@
     
     line#limit {
         stroke: black;
-        stroke-width: 3;
-        stroke-dasharray: 3 6;
+        stroke-width: 1;
+        opacity: 0.5;
+        stroke-dasharray: 7 7;
     }
     
     .grid path {
