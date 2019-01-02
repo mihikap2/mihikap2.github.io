@@ -2,62 +2,58 @@ const sample = [
     {
       major: 'Computer Eng.',
       value: 74.3,
-      color: '#ffff00'
+      color: '#ffd700'
     },
     {
       major: 'Eng. Mechanics',
       value: 71.4,
-      color: '#00bfff'
+      color: '#ffd700'
     },
     {
       major: 'Physics',
       value: 58.8,
-      color: '#adff2f'
+      color: '#ffd700'
     },
     {
       major: 'Math & CS',
       value: 65.2,
-      color: '#f08080'
+      color: '#ffd700'
     },
     {
       major: 'Eng. Physics',
       value: 65.8,
-      color: '#ff0000'
+      color: '#ffd700'
     },
     {
       major: 'Aerospace Eng.',
       value: 69.6,
-      color: '#ff69b4'
+      color: '#ffd700'
     },
     {
       major: 'Mechanical Eng.',
       value: 56.0,
-      color: '#48d1cc'
+      color: '#ffd700'
     },
     {
       major: 'Stats & CS',
       value: 48.8,
-      color: '#ffd700'
+      color: '##ffd700'
     },
     {
       major: 'Electrical Eng.',
       value: 72.2,
-      color: '#40e0d0'
+      color: '#ffd700'
     },
     {
       major: 'Technical Systems',
       value: 80.3,
-      color: '#ff6347'
+      color: '#ffd700'
     }
   ];
 
   const svg = d3.select('#vec');
   const svgContainer = d3.select('#container');
   
-  const margin = 80;
-  const width = 1000 - 2 * margin;
-  const height = 600 - 2 * margin;
-
   const chart = svg.append('g')
     .attr('transform', `translate(${margin}, ${margin})`);
 

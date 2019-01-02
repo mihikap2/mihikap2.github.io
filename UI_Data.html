@@ -9,15 +9,21 @@
 
     <body>
         <div id="layout">
+        <div id="legend"><p style="background-color: white; border: lightgray solid; padding: 10px;
+                            border-width: 1px;margin: 10px;"><span style="color:#f57d6d">Female Dominated </span><br>
+                            <span style="color:#48d1cc">Male Dominated</span></div>
         <div id="description">
             <p id="text">
-            Used <i>Pandas</i> to analyze a University of Illinois at Urbana
-            Champaign(UIUC) dataset of <a href="http://www.dmi.illinois.edu/stuenr/"> Enrollment by Curriculum, 
-            Race, Sex, Residency</a> to find the Top 10 most male and female dominated majors, from among majors
+            Used <i>Pandas</i> to analyze a dataset published by the University of Illinois at Urbana
+            Champaign(UIUC) showing <a href="http://www.dmi.illinois.edu/stuenr/"> Enrollment by Curriculum, 
+            Race, Sex, Residency</a>, to find the Top 10 majors with the most Gender Disparity, and the 
+            most Male and Female Dominated majors, from among majors
             with at least 50 students. Used the <i>D3.js</i> library in <i>JavaScript,</i> along with <i>HTML</i> 
-            and <i>CSS</i>, to create an interactive bar graph showing the Percentage of Gender Disparity in these majors.
+            and <i>CSS</i>, to create an interactive bar graph showing the percentage of Gender Disparity in these majors.
             </p>
         </div>
+        <div id="container2"><svg id="vec2"></svg></div>
+        <script src="UI_Data/src/UI_Data_Gender.js"></script>
         <div id="container"><svg id="vec"></svg></div>
         <script src="UI_Data/src/UI_Data_Male.js"></script>
     </div>

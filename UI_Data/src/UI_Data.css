@@ -4,12 +4,20 @@
     div#layout {
         text-align: center;
     }
+    div#legend {
+        width: 300 px;
+        height: 300 px;
+        position: absolute;
+        margin-top: 90px;
+        margin-left: 140px;
+    }
     div#description {
         width: 300 px;
         height: 300 px;
         position: fixed;
-        margin-top: 130px;
+        margin-top: 200px;
         margin-left: 950px;
+        margin-right: 50px;
     }
     div#container {
         width: 1000px;
@@ -23,9 +31,15 @@
         margin-left: 20px;
         background-color: white;
     }
+    div#container2 {
+        width: 1000px;
+        height: 600px;
+        margin-left: 20px;
+        background-color: white;
+    }
     p {
-        margin-top: 30%;
-        margin-right: 10%;
+        /* margin-top: 30%;
+        margin-right: 10%; */
         text-align: left;
         color: black;
         font-size: 13px;

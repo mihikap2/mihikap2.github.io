@@ -2,42 +2,42 @@ const sample1 = [
     {
       major: "Social Work",
       value: 72.3,
-      color: "#ffb6c1"
+      color: "#ffd700"
     },
     {
       major: "Special Education",
       value: 72.9,
-      color: "#32cd32"
+      color: "#ffd700"
     },
     {
       major: "English",
       value: 51.9,
-      color: "#ffff00"
+      color: "#ffd700"
     },
     {
       major: "Elementary Education",
       value: 86.4,
-      color: "#48d1cc"
+      color: "#ffd700"
     },
     {
       major: "Psychology",
       value: 54.6,
-      color: "#ffb6c1"
+      color: "#ffd700"
     },
     {
       major: "Animal Sciences",
       value: 66.5,
-      color: "#adff2f"
+      color: "#ffd700"
     },    
     {
       major: "Health Science",
       value: 66.0,
-      color: "#ff0000"
+      color: "#ffd700"
     },
     {
       major: "HDFS",
       value: 82.6,
-      color: "#00bfff"
+      color: "#ffd700"
     },
     
     {
@@ -48,7 +48,7 @@ const sample1 = [
     {
       major: "FSHN",
       value: 50.2,
-      color: "#66cdaa"
+      color: "#ffd700"
     }
   ];
 
