@@ -37,7 +37,7 @@ const sample = [
     {
       major: 'Stats & CS',
       value: 48.8,
-      color: '##ffd700'
+      color: '#ffd700'
     },
     {
       major: 'Electrical Eng.',
