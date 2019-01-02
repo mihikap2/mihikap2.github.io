@@ -1,0 +1,877 @@
+﻿Degree,Major code,Major Name,Total,By Gender,
+,,,,Men,Women
+  ,  ,"Agr, Cons, Env Sci ",  ,  ,  
+MS ,5188 ,Agricultural Production ,6,1,5
+MS ,5599 ,Bioprocessing and Bioenergy ,10,6,4
+BS ,5318 ,Agric Leadership & Sci Educ ,27,8,19
+BS ,5318 ,Agric Leadership & Sci Educ ,28,9,19
+MS ,0181 ,Agricultural Education ,10,2,8
+MS ,0181 ,Agricultural Education ,22,8,14
+BS ,5284 ,Agricultural Communications ,1,0,1
+BS ,5284 ,Agricultural Communications ,27,10,17
+BS ,5284 ,Agricultural Communications ,10,1,9
+BS ,0176 ,Agr & Consumer Economics ,54,29,25
+BS ,0176 ,Agr & Consumer Economics ,14,13,1
+BS ,0176 ,Agr & Consumer Economics ,142,108,34
+BS ,0176 ,Agr & Consumer Economics ,1,0,1
+BS ,0176 ,Agr & Consumer Economics ,125,96,29
+BS ,0176 ,Agr & Consumer Economics ,35,16,19
+BS ,0176 ,Agr & Consumer Economics ,1,0,1
+BS ,0176 ,Agr & Consumer Economics ,29,15,14
+BS ,0176 ,Agr & Consumer Economics ,75,44,31
+BS ,0176 ,Agr & Consumer Economics ,1,1,0
+BS ,0176 ,Agr & Consumer Economics ,95,71,24
+BS ,0176 ,Agr & Consumer Economics ,75,59,16
+MS ,5273 ,Agricultural & Applied Econ ,23,13,10
+PHD ,5273 ,Agricultural & Applied Econ ,63,35,28
+NDEG ,0067 ,Nondegree ,81,40,41
+NONE ,5621 ,ACES Undeclared ,55,26,29
+BS ,0002 ,Animal Sciences ,7,2,5
+BS ,0002 ,Animal Sciences ,64,6,57
+BS ,0002 ,Animal Sciences ,1,0,1
+BS ,0002 ,Animal Sciences ,432,76,355
+BS ,0002 ,Animal Sciences ,24,6,18
+MANSC ,0002 ,Animal Sciences ,4,2,2
+MS ,0002 ,Animal Sciences ,54,17,37
+PHD ,0002 ,Animal Sciences ,40,19,21
+BS ,0037 ,Food Science & Human Nutrition ,135,38,97
+BS ,0037 ,Food Science & Human Nutrition ,68,16,52
+BS ,0037 ,Food Science & Human Nutrition ,76,4,72
+BS ,0037 ,Food Science & Human Nutrition ,54,25,29
+MS ,0037 ,Food Science & Human Nutrition ,55,15,40
+MS ,0037 ,Food Science & Human Nutrition ,20,12,8
+MS ,0037 ,Food Science & Human Nutrition ,15,3,12
+MS ,0037 ,Food Science & Human Nutrition ,12,2,10
+PHD ,0037 ,Food Science & Human Nutrition ,31,13,18
+PHD ,0037 ,Food Science & Human Nutrition ,14,2,12
+BS ,0025 ,Technical Systems Management ,173,156,17
+BS ,0025 ,Technical Systems Management ,2,1,1
+BSAG ,5163 ,Agricultural & Biological Engr ,84,47,37
+MS ,0025 ,Technical Systems Management ,2,1,1
+MS ,0025 ,Technical Systems Management ,4,3,1
+BS ,0048 ,Human Development & Family St ,179,15,163
+BS ,0048 ,Human Development & Family St ,56,5,51
+NONE ,0048 ,Human Development & Family St ,18,2,16
+PHD ,0183 ,Human & Community Development ,1,0,1
+PHD ,5577 ,Human Dvlpmt & Family Studies ,24,1,23
+BS ,0030 ,Crop Sciences ,9,2,7
+BS ,0030 ,Crop Sciences ,2,1,1
+BS ,0030 ,Crop Sciences ,20,13,7
+BS ,0030 ,Crop Sciences ,33,22,11
+BS ,0030 ,Crop Sciences ,50,28,22
+BS ,0030 ,Crop Sciences ,6,3,3
+BS ,0030 ,Crop Sciences ,12,4,8
+BS ,0063 ,Horticulture ,1,0,1
+BS ,5623 ,Computer Science&Crop Sciences ,4,4,0
+MS ,0030 ,Crop Sciences ,33,22,11
+MS ,0030 ,Crop Sciences ,22,13,9
+MS ,4026 ,Bioinformatics ,4,3,1
+NDEG ,0063 ,Horticulture ,2,1,1
+PHD ,0030 ,Crop Sciences ,51,28,23
+BS ,0051 ,Natural Resrcs & Environ Sci ,59,22,37
+BS ,0051 ,Natural Resrcs & Environ Sci ,42,26,16
+BS ,0051 ,Natural Resrcs & Environ Sci ,2,1,1
+BS ,0051 ,Natural Resrcs & Environ Sci ,50,15,35
+BS ,0051 ,Natural Resrcs & Environ Sci ,68,30,38
+BS ,0051 ,Natural Resrcs & Environ Sci ,20,4,16
+MS ,0190 ,Natural Res & Env Sciences ,47,22,25
+MS ,0190 ,Natural Res & Env Sciences ,31,12,19
+PHD ,0190 ,Natural Res & Env Sciences ,40,24,16
+MS ,0191 ,Nutritional Sciences ,15,5,10
+PHD ,0191 ,Nutritional Sciences ,26,5,21
+  ,  ,"Agr, Cons, Env Sci ",3308,1410,1895
+,,,,,
+,,,,,
+  ,  ,Business ,  ,  ,  
+MBA ,9875 ,Business Administration (MBA) ,92,61,31
+MBA ,9875 ,Business Administration (MBA) ,113,71,42
+MBA ,9875 ,Business Administration (MBA) ,1,1,0
+BS ,0075 ,Finance ,630,450,180
+MS ,5624 ,Finance ,239,109,130
+PHD ,5624 ,Finance ,18,13,5
+BS ,0071 ,Accountancy ,817,386,431
+MAS ,0071 ,Accountancy ,207,102,105
+MS ,0071 ,Accountancy ,173,30,143
+MS ,0071 ,Accountancy ,173,103,70
+NDEG ,0071 ,Accountancy ,40,22,18
+NDEG ,0071 ,Accountancy ,2,1,1
+PHD ,0071 ,Accountancy ,18,12,6
+BS ,1432 ,Marketing ,106,30,76
+BS ,1432 ,Marketing ,134,44,90
+BS ,5070 ,Information Sys & Info Tech ,46,30,16
+BS ,5070 ,Information Sys & Info Tech ,57,27,30
+BS ,5071 ,Supply Chain Management ,15,7,8
+BS ,5071 ,Supply Chain Management ,70,25,45
+BS ,5072 ,Business Process Management ,3,1,2
+BS ,5072 ,Business Process Management ,14,11,3
+BS ,5073 ,Management ,23,16,7
+BS ,5073 ,Management ,5,3,2
+BS ,5073 ,Management ,11,3,8
+BS ,5073 ,Management ,7,2,5
+BS ,5073 ,Management ,33,16,17
+BS ,5073 ,Management ,13,6,7
+BS ,5597 ,Information Systems ,22,12,9
+BS ,5597 ,Information Systems ,3,2,1
+BS ,5600 ,Operations Management ,6,3,3
+BS ,5600 ,Operations Management ,5,3,2
+MS ,0079 ,Business Administration ,55,20,33
+MS ,5148 ,Technology Management ,59,34,25
+MS ,5148 ,Technology Management ,3,2,1
+MS ,5148 ,Technology Management ,7,4,3
+MS ,5148 ,Technology Management ,9,3,6
+MS ,5590 ,Management ,15,6,9
+PHD ,0079 ,Business Administration ,40,21,19
+MBA ,9875 ,Business Administration (MBA) ,1,1,0
+MBA ,9875 ,Business Administration (MBA) ,1592,1059,528
+NDEG ,0067 ,Nondegree ,97,50,47
+NDEG ,9875 ,Business Administration (MBA) ,210,163,46
+NDEG ,9875 ,Business Administration (MBA) ,8,3,5
+NONE ,0070 ,Curric Unassigned ,1021,575,445
+  ,  ,Business ,6213,3543,2660
+,,,,,
+,,,,,
+  ,  ,Education ,  ,  ,  
+BS ,5391 ,Learning and Education Studies ,11,4,7
+BS ,5391 ,Learning and Education Studies ,2,0,2
+BS ,5391 ,Learning and Education Studies ,12,0,12
+BS ,5391 ,Learning and Education Studies ,12,5,7
+BS ,5391 ,Learning and Education Studies ,11,5,6
+NDEG ,0067 ,Nondegree ,5,1,4
+NONE ,5598 ,Education Curriculum Uassign ,22,4,18
+BS ,0093 ,Special Education ,107,14,92
+EDM ,0093 ,Special Education ,11,1,10
+EDM ,0093 ,Special Education ,15,0,15
+MS ,0093 ,Special Education ,1,0,1
+PHD ,0093 ,Special Education ,26,4,22
+BS ,0094 ,Early Childhood Education ,37,2,35
+BS ,0094 ,Early Childhood Education ,2,0,2
+BS ,0094 ,Early Childhood Education ,1,0,1
+BS ,0094 ,Early Childhood Education ,1,0,1
+BS ,0094 ,Early Childhood Education ,3,0,3
+BS ,0094 ,Early Childhood Education ,2,0,2
+BS ,0094 ,Early Childhood Education ,1,0,1
+BS ,0094 ,Early Childhood Education ,3,0,3
+BS ,0095 ,Elementary Education ,294,20,274
+BS ,5422 ,Middle Grades Education ,26,6,20
+BS ,5422 ,Middle Grades Education ,13,3,10
+BS ,5422 ,Middle Grades Education ,35,10,25
+BS ,5422 ,Middle Grades Education ,4,0,4
+BS ,5422 ,Middle Grades Education ,4,1,3
+CAS ,1144 ,Curriculum and Instruction ,1,0,1
+EDD ,1144 ,Curriculum and Instruction ,2,0,2
+EDM ,0095 ,Elementary Education ,8,3,5
+EDM ,1144 ,Curriculum and Instruction ,20,2,18
+EDM ,5082 ,Early Childhood Education ,6,0,6
+EDM ,8527 ,Secondary Education ,1,1,0
+EDM ,8527 ,Secondary Education ,4,1,3
+EDM ,8527 ,Secondary Education ,6,5,1
+EDM ,8527 ,Secondary Education ,7,4,3
+EDM ,8527 ,Secondary Education ,2,2,0
+MA ,1144 ,Curriculum and Instruction ,5,0,5
+NDEG ,1144 ,Curriculum and Instruction ,4,1,3
+PHD ,1144 ,Curriculum and Instruction ,46,14,32
+PHD ,1144 ,Curriculum and Instruction ,1,0,1
+MS ,0210 ,Educational Psychology ,5,0,5
+PHD ,0210 ,Educational Psychology ,46,14,32
+CAS ,5399 ,"Educ Policy, Orgzn & Leadrshp ",5,2,3
+CAS ,5399 ,"Educ Policy, Orgzn & Leadrshp ",6,2,4
+CAS ,5399 ,"Educ Policy, Orgzn & Leadrshp ",1,1,0
+EDD ,0209 ,Ed Organization and Leadership ,2,2,0
+EDD ,0209 ,Ed Organization and Leadership ,9,5,4
+EDD ,0209 ,Ed Organization and Leadership ,2,0,2
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,1,1
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,0,2
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",7,4,3
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",22,11,11
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",1,0,1
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",14,6,8
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,0,2
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",24,13,10
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,1,1
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",61,27,34
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,1,1
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",29,10,19
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,0,2
+EDD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",80,23,57
+EDM ,0209 ,Ed Organization and Leadership ,1,1,0
+EDM ,0220 ,Educational Policy Studies ,1,1,0
+EDM ,4096 ,Human Resource Education ,1,1,0
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",3,2,1
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",19,5,14
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",39,9,30
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",6,2,4
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",35,8,27
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",3,0,3
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",16,3,13
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",19,6,13
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",3,1,2
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",24,6,18
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",20,10,10
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,0,2
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",26,3,23
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",20,1,19
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",1,1,0
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",12,3,9
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",63,13,49
+EDM ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,1,1
+MA ,5399 ,"Educ Policy, Orgzn & Leadrshp ",1,0,1
+MA ,5399 ,"Educ Policy, Orgzn & Leadrshp ",1,1,0
+MA ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,0,2
+MA ,5399 ,"Educ Policy, Orgzn & Leadrshp ",1,1,0
+MA ,5399 ,"Educ Policy, Orgzn & Leadrshp ",1,0,1
+NDEG ,5399 ,"Educ Policy, Orgzn & Leadrshp ",4,0,4
+NDEG ,5399 ,"Educ Policy, Orgzn & Leadrshp ",38,15,23
+PHD ,0209 ,Ed Organization and Leadership ,3,1,2
+PHD ,0209 ,Ed Organization and Leadership ,4,0,4
+PHD ,0209 ,Ed Organization and Leadership ,1,1,0
+PHD ,0220 ,Educational Policy Studies ,38,16,22
+PHD ,0220 ,Educational Policy Studies ,1,1,0
+PHD ,0220 ,Educational Policy Studies ,1,0,1
+PHD ,4096 ,Human Resource Education ,7,4,3
+PHD ,4096 ,Human Resource Education ,11,4,7
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",11,3,8
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",23,11,12
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",3,3,0
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",15,2,13
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",3,2,1
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",12,5,7
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",7,0,7
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",2,1,1
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",1,0,1
+PHD ,5399 ,"Educ Policy, Orgzn & Leadrshp ",5,2,3
+  ,  ,Education ,1612,386,1223
+,,,,,
+,,,,,
+  ,  ,Engineering ,  ,  ,  
+BS ,5163 ,Agricultural & Biological Engr ,52,30,22
+BS ,5163 ,Agricultural & Biological Engr ,11,8,3
+BS ,5163 ,Agricultural & Biological Engr ,17,10,7
+MENGR ,1211 ,Engineering ,30,23,7
+MS ,5163 ,Agricultural & Biological Engr ,25,20,5
+NDEG ,0067 ,Nondegree ,181,132,49
+PHD ,5163 ,Agricultural & Biological Engr ,31,16,15
+PHD ,5163 ,Agricultural & Biological Engr ,5,4,1
+BS ,0121 ,Engineering Physics ,275,228,47
+MS ,0240 ,Physics ,2,1,1
+PHD ,0240 ,Physics ,283,206,77
+PHD ,0240 ,Physics ,5,4,1
+BS ,0106 ,Civil Engineering ,671,487,184
+MS ,0106 ,Civil Engineering ,303,219,84
+MS ,0106 ,Civil Engineering ,46,33,13
+MS ,0106 ,Civil Engineering ,3,2,1
+MS ,0231 ,Environ Engr in Civil Engr ,58,31,27
+MS ,0231 ,Environ Engr in Civil Engr ,3,1,2
+PHD ,0106 ,Civil Engineering ,179,142,37
+PHD ,0106 ,Civil Engineering ,23,18,5
+PHD ,0231 ,Environ Engr in Civil Engr ,36,22,14
+PHD ,0231 ,Environ Engr in Civil Engr ,2,1,1
+BS ,0408 ,Bioengineering ,266,129,137
+MENGR ,0408 ,Bioengineering ,20,11,9
+MENGR ,0408 ,Bioengineering ,1,0,1
+MENGR ,0408 ,Bioengineering ,8,6,2
+MS ,0408 ,Bioengineering ,5,2,3
+PHD ,0408 ,Bioengineering ,80,46,34
+PHD ,0408 ,Bioengineering ,2,0,2
+PHD ,0408 ,Bioengineering ,1,0,1
+BS ,0127 ,Industrial Engineering ,271,202,69
+BS ,5532 ,Systems Engineering and Design ,249,180,68
+MS ,0127 ,Industrial Engineering ,33,20,13
+MS ,0127 ,Industrial Engineering ,1,0,1
+MS ,0127 ,Industrial Engineering ,17,11,6
+MS ,3846 ,Systems & Entrepreneurial Engr ,4,4,0
+PHD ,0127 ,Industrial Engineering ,45,29,16
+PHD ,3846 ,Systems & Entrepreneurial Engr ,18,18,0
+BS ,0112 ,Computer Science ,1012,709,302
+BS ,0112 ,Computer Science ,42,33,9
+MCS ,0112 ,Computer Science ,116,87,29
+MCS ,0112 ,Computer Science ,33,30,3
+MCS ,0112 ,Computer Science ,586,478,107
+MCS ,0112 ,Computer Science ,43,37,6
+MS ,0112 ,Computer Science ,124,92,32
+MS ,0112 ,Computer Science ,8,7,1
+MS ,4026 ,Bioinformatics ,6,4,2
+NDEG ,0112 ,Computer Science ,9,7,2
+PHD ,0112 ,Computer Science ,345,277,68
+MS ,5244 ,Financial Engineering ,126,88,38
+MS ,5244 ,Financial Engineering ,1,1,0
+NONE ,5333 ,Engineering Undeclared ,151,94,57
+BS ,4048 ,Aerospace Engineering ,519,440,79
+MS ,4048 ,Aerospace Engineering ,70,58,12
+MS ,4048 ,Aerospace Engineering ,25,20,5
+MS ,4048 ,Aerospace Engineering ,2,2,0
+NDEG ,4048 ,Aerospace Engineering ,1,1,0
+PHD ,4048 ,Aerospace Engineering ,66,57,9
+PHD ,4048 ,Aerospace Engineering ,3,3,0
+BS ,0118 ,Engineering Mechanics ,112,96,16
+BS ,0133 ,Mechanical Engineering ,860,671,189
+MENGR ,0133 ,Mechanical Engineering ,36,31,5
+MENGR ,0133 ,Mechanical Engineering ,22,22,0
+MENGR ,1211 ,Engineering ,3,1,2
+MENGR ,1211 ,Engineering ,1,1,0
+MS ,0133 ,Mechanical Engineering ,111,91,20
+MS ,0133 ,Mechanical Engineering ,8,8,0
+MS ,0133 ,Mechanical Engineering ,3,3,0
+MS ,0242 ,Theoretical & Applied Mechans ,4,3,1
+PHD ,0133 ,Mechanical Engineering ,237,204,33
+PHD ,0133 ,Mechanical Engineering ,8,7,1
+PHD ,0242 ,Theoretical & Applied Mechans ,27,22,5
+PHD ,0242 ,Theoretical & Applied Mechans ,5,4,1
+BS ,0130 ,Materials Science & Engr ,249,175,74
+BS ,0130 ,Materials Science & Engr ,7,6,1
+BS ,0130 ,Materials Science & Engr ,20,18,2
+BS ,0130 ,Materials Science & Engr ,14,6,8
+BS ,0130 ,Materials Science & Engr ,14,10,4
+BS ,0130 ,Materials Science & Engr ,21,18,3
+MS ,0130 ,Materials Science & Engr ,28,20,8
+PHD ,0130 ,Materials Science & Engr ,149,102,47
+PHD ,0130 ,Materials Science & Engr ,2,2,0
+BS ,0109 ,Computer Engineering ,1184,1032,152
+BS ,0115 ,Electrical Engineering ,913,786,127
+MENGR ,1200 ,Electrical & Computer Engr ,89,69,20
+MENGR ,1200 ,Electrical & Computer Engr ,40,37,3
+MS ,1200 ,Electrical & Computer Engr ,274,225,49
+MS ,1200 ,Electrical & Computer Engr ,1,1,0
+PHD ,1200 ,Electrical & Computer Engr ,251,211,40
+PHD ,1200 ,Electrical & Computer Engr ,2,2,0
+BS ,5183 ,"Nuclear, Plasma, Radiolgc Engr ",47,45,2
+BS ,5183 ,"Nuclear, Plasma, Radiolgc Engr ",44,35,9
+BS ,5183 ,"Nuclear, Plasma, Radiolgc Engr ",22,17,5
+BS ,5183 ,"Nuclear, Plasma, Radiolgc Engr ",10,8,2
+MS ,5183 ,"Nuclear, Plasma, Radiolgc Engr ",33,29,4
+MS ,5183 ,"Nuclear, Plasma, Radiolgc Engr ",2,2,0
+PHD ,5183 ,"Nuclear, Plasma, Radiolgc Engr ",55,51,4
+PHD ,5183 ,"Nuclear, Plasma, Radiolgc Engr ",5,3,2
+  ,  ,Engineering ,11463,8895,2565
+,,,,,
+,,,,,
+  ,  ,Fine & Applied Arts ,  ,  ,  
+NDEG ,0067 ,Nondegree ,38,17,21
+AD ,0265 ,Music ,7,1,6
+AMUSD ,0265 ,Music ,9,7,2
+AMUSD ,0265 ,Music ,115,43,72
+AMUSD ,0265 ,Music ,14,13,1
+AMUSD ,0265 ,Music ,3,1,2
+AMUSD ,0265 ,Music ,33,27,6
+AMUSD ,0265 ,Music ,3,2,1
+AMUSD ,0265 ,Music ,1,1,0
+BA ,0265 ,Music ,54,32,22
+BMA ,5646 ,Lyric Theatre ,12,2,10
+BME ,0168 ,Music Education ,36,16,20
+BME ,0168 ,Music Education ,20,4,16
+BME ,0168 ,Music Education ,69,37,32
+BME ,0168 ,Music Education ,7,2,5
+BME ,0168 ,Music Education ,4,2,2
+BMUS ,0157 ,Voice ,25,8,17
+BMUS ,0158 ,Instrumental Music ,77,30,47
+BMUS ,0159 ,Music Composition ,10,10,0
+BMUS ,0161 ,Open Studies ,5,2,3
+BMUS ,1481 ,Musicology ,1,0,1
+BMUS ,5045 ,Jazz Performance ,31,25,6
+BS ,5639 ,Computer Science and Music ,1,1,0
+EDD ,0168 ,Music Education ,1,1,0
+MME ,0168 ,Music Education ,10,6,4
+MMUS ,0265 ,Music ,62,29,33
+MMUS ,0265 ,Music ,4,3,1
+MMUS ,0265 ,Music ,9,1,8
+MMUS ,0265 ,Music ,3,1,2
+MMUS ,0265 ,Music ,1,1,0
+MMUS ,0265 ,Music ,3,2,1
+MMUS ,0265 ,Music ,1,0,1
+MMUS ,0265 ,Music ,16,14,2
+PHD ,0168 ,Music Education ,5,4,1
+PHD ,1481 ,Musicology ,17,11,6
+PHD ,1481 ,Musicology ,1,0,1
+BFA ,0148 ,Graphic Design ,185,58,127
+BFA ,0149 ,Crafts ,1,0,1
+BFA ,0149 ,Crafts ,3,0,3
+BFA ,0150 ,History of Art ,8,3,5
+BFA ,0151 ,Photography ,32,8,24
+BFA ,0152 ,Industrial Design ,201,99,102
+BFA ,0153 ,Painting ,36,4,32
+BFA ,0154 ,Sculpture ,3,2,1
+BFA ,0169 ,Art Education ,36,2,34
+BFA ,5128 ,New Media ,29,7,22
+EDM ,0169 ,Art Education ,4,1,3
+MA ,0169 ,Art Education ,6,0,6
+MA ,0250 ,Art History ,1,1,0
+MFA ,0252 ,Art and Design ,4,1,3
+MFA ,0252 ,Art and Design ,10,3,7
+MFA ,0252 ,Art and Design ,14,6,8
+MFA ,0252 ,Art and Design ,4,0,4
+MFA ,0252 ,Art and Design ,8,5,3
+MFA ,0252 ,Art and Design ,7,3,4
+NONE ,4090 ,Art Foundation ,15,3,12
+PHD ,0169 ,Art Education ,8,0,8
+PHD ,0250 ,Art History ,13,1,12
+BLA ,0156 ,Landscape Architecture ,50,20,30
+MLA ,0156 ,Landscape Architecture ,44,6,38
+NDEG ,0156 ,Landscape Architecture ,1,0,1
+PHD ,0156 ,Landscape Architecture ,13,6,7
+BA ,5504 ,Urban Studies & Planning ,25,17,8
+BA ,5504 ,Urban Studies & Planning ,13,4,9
+BA ,5504 ,Urban Studies & Planning ,35,27,8
+BA ,5504 ,Urban Studies & Planning ,5,1,4
+BA ,5504 ,Urban Studies & Planning ,2,0,2
+MUP ,0155 ,Urban Planning ,52,25,27
+NDEG ,0155 ,Urban Planning ,1,1,0
+PHD ,0274 ,Regional Planning ,16,10,6
+BS ,0146 ,Architectural Studies ,6,3,3
+BS ,4091 ,Architectural Studies ,410,246,164
+MARCH ,5642 ,Architecture ,162,78,83
+MARCH ,5642 ,Architecture ,23,10,13
+MS ,4091 ,Architectural Studies ,2,2,0
+PHD ,5642 ,Architecture ,14,11,3
+BA ,0261 ,Dance ,7,2,5
+BFA ,0261 ,Dance ,50,2,48
+MFA ,0261 ,Dance ,11,5,6
+BFA ,0162 ,Theatre ,19,5,14
+BFA ,0162 ,Theatre ,19,5,14
+BFA ,0162 ,Theatre ,58,32,26
+BFA ,0162 ,Theatre ,1,0,1
+BFA ,0162 ,Theatre ,2,2,0
+BFA ,0162 ,Theatre ,10,7,2
+BFA ,0162 ,Theatre ,8,4,4
+BFA ,0162 ,Theatre ,3,1,2
+MA ,0162 ,Theatre ,5,1,4
+MFA ,0162 ,Theatre ,43,15,28
+MFA ,0162 ,Theatre ,10,6,4
+NONE ,0162 ,Theatre ,16,5,11
+PHD ,0162 ,Theatre ,7,2,5
+  ,  ,Fine & Applied Arts ,2479,1124,1353
+,,,,,
+,,,,,
+  ,  ,Graduate College ,  ,  ,  
+NDEG ,0067 ,Nondegree ,10,6,4
+NDEG ,0067 ,Nondegree ,5,5,0
+PHD ,5094 ,Informatics ,45,26,19
+  ,  ,Graduate College ,60,37,23
+,,,,,
+,,,,,
+  ,  ,Media ,  ,  ,  
+PHD ,5202 ,Communications and Media ,47,14,33
+BS ,0277 ,Advertising ,626,202,424
+MS ,0277 ,Advertising ,19,5,14
+BS ,5201 ,Media and Cinema Studies ,85,39,46
+BS ,5201 ,Media and Cinema Studies ,19,8,11
+BS ,5201 ,Media and Cinema Studies ,12,3,9
+BS ,0278 ,Journalism ,222,87,135
+BSJ ,0381 ,Broadcast Journalism ,1,0,1
+MS ,0278 ,Journalism ,5,3,2
+MS ,0278 ,Journalism ,1,0,1
+BS ,5284 ,Agricultural Communications ,1,0,1
+BS ,5284 ,Agricultural Communications ,1,1,0
+MS ,5420 ,Strategic Brand Communication ,67,17,50
+NDEG ,0067 ,Nondegree ,26,13,13
+NDEG ,5420 ,Strategic Brand Communication ,1,0,1
+  ,  ,Media ,1133,392,741
+,,,,,
+,,,,,
+  ,  ,Law ,  ,  ,  
+JD ,0385 ,Law ,398,234,164
+JSD ,0281 ,Law ,8,3,5
+LLM ,0281 ,Law ,50,18,32
+LLM ,0281 ,Law ,1,0,1
+LLM ,0281 ,Law ,1,0,1
+LLM ,0281 ,Law ,1,1,0
+LLM ,0281 ,Law ,1,1,0
+LLM ,0281 ,Law ,4,4,0
+MSL ,5223 ,Law ,4,3,1
+NDEG ,0385 ,Law ,19,5,14
+  ,  ,Law ,487,269,218
+,,,,,
+,,,,,
+  ,  ,Liberal Arts & Sci ,  ,  ,  
+BALAS ,0340 ,Anthropology ,43,19,24
+BALAS ,0340 ,Anthropology ,2,1,1
+BALAS ,0340 ,Anthropology ,2,0,2
+BALAS ,0340 ,Anthropology ,4,2,2
+BALAS ,0340 ,Anthropology ,6,3,3
+BALAS ,0340 ,Anthropology ,1,1,0
+BALAS ,0340 ,Anthropology ,11,3,8
+BSLAS ,5348 ,Computer Sci & Anthropology ,36,26,10
+MA ,0340 ,Anthropology ,1,0,1
+NONE ,0340 ,Anthropology ,25,5,20
+PHD ,0340 ,Anthropology ,57,16,41
+BSLAS ,0334 ,Atmospheric Sciences ,70,44,26
+BSLAS ,0334 ,Atmospheric Sciences ,1,0,1
+MS ,0334 ,Atmospheric Sciences ,12,8,4
+PHD ,0334 ,Atmospheric Sciences ,32,23,9
+PHD ,0334 ,Atmospheric Sciences ,2,2,0
+BALAS ,0439 ,Mathematics ,1,1,0
+BSLAS ,0439 ,Mathematics ,40,29,11
+BSLAS ,0439 ,Mathematics ,74,35,39
+BSLAS ,0439 ,Mathematics ,1,1,0
+BSLAS ,0439 ,Mathematics ,15,10,5
+BSLAS ,0439 ,Mathematics ,7,3,4
+BSLAS ,0439 ,Mathematics ,1,1,0
+BSLAS ,0439 ,Mathematics ,17,8,9
+BSLAS ,0439 ,Mathematics ,1,1,0
+BSLAS ,0461 ,Actuarial Science ,303,186,117
+BSLAS ,0461 ,Actuarial Science ,59,23,36
+BSLAS ,1438 ,Math & Computer Science ,264,218,46
+BSLAS ,1438 ,Math & Computer Science ,9,7,2
+MS ,0290 ,Teaching of Mathematics ,3,2,1
+MS ,0327 ,Applied Mathematics ,13,8,5
+MS ,0439 ,Mathematics ,13,11,2
+MS ,0461 ,Actuarial Science ,36,22,14
+NONE ,0439 ,Mathematics ,464,319,144
+PHD ,0439 ,Mathematics ,134,85,49
+PHD ,0439 ,Mathematics ,2,1,1
+PHD ,0439 ,Mathematics ,2,1,1
+BALAS ,5313 ,"Earth, Soc, Env Sustainability ",1,0,1
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",41,20,21
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",11,2,9
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",6,3,3
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",40,18,22
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",4,0,4
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",6,0,6
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",24,16,8
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",2,1,1
+BSLAS ,5313 ,"Earth, Soc, Env Sustainability ",4,3,1
+MS ,0314 ,Biology ,1,0,1
+BALAS ,5535 ,Psychology ,4,0,4
+BSLAS ,5535 ,Psychology ,343,84,259
+BSLAS ,5535 ,Psychology ,80,12,68
+BSLAS ,5535 ,Psychology ,22,7,15
+BSLAS ,5535 ,Psychology ,2,0,2
+BSLAS ,5535 ,Psychology ,66,15,51
+BSLAS ,5535 ,Psychology ,13,1,12
+BSLAS ,5535 ,Psychology ,7,4,3
+BSLAS ,5535 ,Psychology ,1,1,0
+BSLAS ,5535 ,Psychology ,16,1,15
+BSLAS ,5535 ,Psychology ,2,1,1
+BSLAS ,5535 ,Psychology ,40,16,24
+BSLAS ,5535 ,Psychology ,12,2,10
+BSLAS ,5535 ,Psychology ,12,5,7
+BSLAS ,5535 ,Psychology ,5,3,2
+BSLAS ,5535 ,Psychology ,1,0,1
+BSLAS ,5535 ,Psychology ,24,8,16
+BSLAS ,5535 ,Psychology ,5,1,4
+BSLAS ,5535 ,Psychology ,1,0,1
+BSLAS ,5535 ,Psychology ,6,1,5
+BSLAS ,5535 ,Psychology ,2,0,2
+BSLAS ,5535 ,Psychology ,7,1,6
+BSLAS ,5535 ,Psychology ,2,2,0
+MS ,5625 ,Psychological Science ,21,8,13
+NONE ,5535 ,Psychology ,861,235,626
+PHD ,5535 ,Psychology ,133,37,96
+BALAS ,1008 ,African American Studies ,19,5,14
+BALAS ,1008 ,African American Studies ,1,1,0
+BALAS ,0344 ,Sociology ,167,61,106
+BALAS ,0344 ,Sociology ,12,1,11
+PHD ,0344 ,Sociology ,34,15,19
+MS ,0324 ,Entomology ,5,4,1
+PHD ,0324 ,Entomology ,24,17,7
+BALAS ,0285 ,E Asian Languages & Cultures ,33,13,20
+BALAS ,0285 ,E Asian Languages & Cultures ,1,0,1
+MA ,5311 ,East Asian Studies ,11,6,5
+PHD ,0285 ,E Asian Languages & Cultures ,25,7,18
+MS ,0320 ,Plant Biology ,3,1,2
+PHD ,0320 ,Plant Biology ,29,10,19
+PHD ,0320 ,Plant Biology ,1,1,0
+BSLAS ,0438 ,Integrative Biology ,282,118,164
+BSLAS ,0438 ,Integrative Biology ,5,3,2
+BSLAS ,0438 ,Integrative Biology ,51,23,28
+BSLAS ,0438 ,Integrative Biology ,9,3,6
+MS ,0314 ,Biology ,3,2,1
+MS ,5107 ,"Ecol, Evol, Conservation Biol ",4,1,3
+MS ,5278 ,Teaching of Biological Science ,24,9,15
+PHD ,0314 ,Biology ,16,10,6
+PHD ,5107 ,"Ecol, Evol, Conservation Biol ",30,10,20
+BSLAS ,0314 ,Biology ,2,1,1
+BSLAS ,0314 ,Biology ,3,2,1
+NONE ,0314 ,Biology ,695,265,430
+BALAS ,5526 ,Asian American Studies ,3,2,1
+BALAS ,0074 ,Economics ,870,631,239
+BALAS ,0074 ,Economics ,79,56,23
+BSLAS ,0074 ,Economics ,1,1,0
+BSLAS ,5321 ,Econometrics & Quant Econ ,32,26,6
+BSLAS ,5321 ,Econometrics & Quant Econ ,1,0,1
+BSLAS ,5667 ,Computer Science & Economics ,2,2,0
+BSLAS ,5667 ,Computer Science & Economics ,1,1,0
+MS ,5591 ,Economics ,140,78,62
+PHD ,5591 ,Economics ,112,68,44
+BS ,0335 ,Chemistry ,233,136,97
+BS ,0335 ,Chemistry ,1,1,0
+BSLAS ,0335 ,Chemistry ,264,126,138
+BSLAS ,0335 ,Chemistry ,16,9,7
+BSLAS ,0335 ,Chemistry ,3,3,0
+BSLAS ,5350 ,Computer Sci & Chemistry ,40,32,8
+BSLAS ,5350 ,Computer Sci & Chemistry ,1,0,1
+MS ,0294 ,Teaching of Chemistry ,1,0,1
+MS ,0335 ,Chemistry ,5,3,2
+PHD ,0335 ,Chemistry ,276,174,102
+PHD ,0337 ,Chemical Physics ,3,2,1
+BSLAS ,0433 ,Molecular and Cellular Biology ,813,373,440
+BSLAS ,0433 ,Molecular and Cellular Biology ,61,20,41
+BSLAS ,0433 ,Molecular and Cellular Biology ,73,22,51
+BSLAS ,0433 ,Molecular and Cellular Biology ,6,3,3
+NONE ,3854 ,Molecular&Cell Bio-undeclared ,27,12,15
+PHD ,0319 ,Biophysics & Computnl Biology ,12,9,3
+PHD ,5414 ,Biophysics & Quant Biology ,43,32,11
+PHD ,5414 ,Biophysics & Quant Biology ,3,1,2
+BSLAS ,0333 ,Astronomy ,88,61,27
+BSLAS ,0333 ,Astronomy ,1,0,1
+BSLAS ,5349 ,Computer Sci & Astronomy ,39,32,7
+PHD ,0333 ,Astronomy ,27,15,12
+PHD ,0333 ,Astronomy ,3,2,1
+BS ,0318 ,Biochemistry ,169,84,85
+BSLAS ,0318 ,Biochemistry ,1,0,1
+MS ,0318 ,Biochemistry ,1,1,0
+PHD ,0318 ,Biochemistry ,71,39,32
+BALAS ,0342 ,History ,217,145,72
+BALAS ,0342 ,History ,19,9,10
+BALAS ,0342 ,History ,22,13,9
+PHD ,0342 ,History ,81,48,33
+PHD ,0342 ,History ,1,1,0
+MA ,0283 ,African Studies ,4,1,3
+BALAS ,5164 ,Communication ,670,256,414
+BALAS ,5164 ,Communication ,27,9,18
+MA ,5164 ,Communication ,6,2,4
+MS ,5285 ,Health Communication ,27,2,25
+PHD ,5164 ,Communication ,29,13,16
+BALAS ,5197 ,Religion ,3,2,1
+MA ,5197 ,Religion ,9,2,7
+BALAS ,0311 ,English ,287,69,218
+BALAS ,0311 ,English ,29,5,24
+BALAS ,0311 ,English ,42,15,27
+BALAS ,0311 ,English ,1,0,1
+BALAS ,5347 ,Creative Writing ,75,26,49
+BALAS ,5347 ,Creative Writing ,5,1,4
+MA ,0311 ,English ,19,7,12
+MFA ,1136 ,Creative Writing ,18,11,7
+PHD ,0311 ,English ,60,21,39
+PHD ,0311 ,English ,2,0,2
+PHD ,0311 ,English ,2,2,0
+BALAS ,0308 ,Classics ,12,6,6
+BALAS ,0308 ,Classics ,1,0,1
+MA ,0308 ,Classics ,3,1,2
+MA ,0308 ,Classics ,1,0,1
+MA ,0345 ,Teaching of Latin ,2,0,2
+PHD ,0347 ,Classical Philology ,10,7,3
+BALAS ,4097 ,"Russian, E Eur, Eurasian St ",4,1,3
+BALAS ,4097 ,"Russian, E Eur, Eurasian St ",2,0,2
+MA ,4097 ,"Russian, E Eur, Eurasian St ",4,2,2
+BALAS ,0150 ,History of Art ,15,2,13
+BALAS ,0150 ,History of Art ,2,0,2
+BALAS ,0463 ,Individual Plans of Study ,1,0,1
+BALAS ,3865 ,Interdisciplinary ,2,1,1
+BALAS ,5215 ,Global Studies ,153,44,109
+BALAS ,5215 ,Global Studies ,30,8,22
+BS ,0240 ,Physics ,202,156,46
+BSLAS ,0240 ,Physics ,55,48,7
+BSLAS ,0240 ,Physics ,14,12,2
+BSLAS ,0240 ,Physics ,3,2,1
+BSLAS ,0240 ,Physics ,1,1,0
+BSLAS ,0463 ,Individual Plans of Study ,12,5,7
+NDEG ,0067 ,Nondegree ,149,76,73
+NONE ,0390 ,General Curriculum ,121,76,45
+NONE ,5246 ,LAS - Undeclared ,135,46,89
+BSLAS ,0329 ,Statistics ,312,194,118
+BSLAS ,0329 ,Statistics ,63,34,29
+BSLAS ,0464 ,Statistics & Computer Science ,242,180,62
+BSLAS ,0464 ,Statistics & Computer Science ,17,15,2
+MS ,0329 ,Statistics ,82,34,48
+MS ,0329 ,Statistics ,1,0,1
+MS ,0329 ,Statistics ,54,28,26
+PHD ,0329 ,Statistics ,49,35,14
+PHD ,4094 ,Cell and Developmental Biology ,31,13,18
+BA ,0297 ,Teaching of Spanish ,7,0,7
+BALAS ,0307 ,Spanish ,69,24,45
+BALAS ,0307 ,Spanish ,8,3,5
+MA ,0306 ,Portuguese ,1,0,1
+MA ,0307 ,Spanish ,1,1,0
+MA ,0307 ,Spanish ,1,0,1
+MA ,0307 ,Spanish ,5,3,2
+PHD ,0307 ,Spanish ,33,8,25
+PHD ,0307 ,Spanish ,1,1,0
+PHD ,0307 ,Spanish ,3,0,3
+PHD ,0325 ,Molecular & Integrative Physi ,23,8,15
+MA ,5346 ,Translation and Interpreting ,11,7,4
+MA ,5346 ,Translation and Interpreting ,19,3,16
+BS ,0336 ,Geology ,33,20,13
+BS ,0336 ,Geology ,7,6,1
+BS ,0336 ,Geology ,4,1,3
+BSLAS ,0336 ,Geology ,8,7,1
+BSLAS ,0336 ,Geology ,2,1,1
+BSLAS ,0336 ,Geology ,8,4,4
+MS ,0336 ,Geology ,4,0,4
+PHD ,0336 ,Geology ,31,16,15
+MA ,5203 ,European Union Studies ,6,3,3
+BALAS ,1279 ,Gender and Women's Studies ,20,0,20
+BS ,0300 ,Chemical Engineering ,643,430,211
+BS ,0300 ,Chemical Engineering ,10,9,1
+MS ,0300 ,Chemical Engineering ,1,0,1
+PHD ,0300 ,Chemical Engineering ,95,60,35
+PHD ,0300 ,Chemical Engineering ,7,3,4
+BALAS ,0343 ,Political Science ,621,340,280
+BALAS ,0343 ,Political Science ,87,47,40
+BALAS ,0343 ,Political Science ,12,6,6
+PHD ,0343 ,Political Science ,48,29,19
+BALAS ,0332 ,Philosophy ,82,61,21
+BALAS ,0332 ,Philosophy ,5,3,2
+PHD ,0332 ,Philosophy ,24,18,6
+BALAS ,0286 ,Latin American Studies ,2,2,0
+MA ,0286 ,Latin American Studies ,3,2,1
+BALAS ,1120 ,Comparative Literature ,8,2,6
+BALAS ,1120 ,Comparative Literature ,1,0,1
+BALAS ,1120 ,Comparative Literature ,1,1,0
+MA ,1120 ,Comparative Literature ,7,2,5
+NONE ,1120 ,Comparative Literature ,1,0,1
+PHD ,1120 ,Comparative Literature ,11,2,9
+BALAS ,0301 ,Linguistics ,79,38,41
+BALAS ,0301 ,Linguistics ,4,0,4
+BSLAS ,5351 ,Computer Sci & Linguistics ,73,50,23
+BSLAS ,5351 ,Computer Sci & Linguistics ,3,1,2
+MA ,0299 ,Teaching of English Sec Lang ,28,5,23
+MA ,0301 ,Linguistics ,14,4,10
+PHD ,0301 ,Linguistics ,26,7,19
+PHD ,0301 ,Linguistics ,2,1,1
+BALAS ,5330 ,Geography & Geographic Info Sc ,23,18,5
+BALAS ,5330 ,Geography & Geographic Info Sc ,1,0,1
+BALAS ,5330 ,Geography & Geographic Info Sc ,11,9,2
+BALAS ,5330 ,Geography & Geographic Info Sc ,3,3,0
+MA ,0341 ,Geography ,1,0,1
+MS ,5856 ,Geography ,4,2,2
+MS ,5856 ,Geography ,15,12,3
+PHD ,0341 ,Geography ,33,18,15
+BALAS ,0412 ,Germanic Lang & Lit ,1,0,1
+BALAS ,0412 ,Germanic Lang & Lit ,1,0,1
+BALAS ,0412 ,Germanic Lang & Lit ,1,0,1
+BALAS ,0412 ,Germanic Lang & Lit ,1,0,1
+BALAS ,1292 ,Germanic Studies ,1,1,0
+BALAS ,1292 ,Germanic Studies ,1,1,0
+BALAS ,1292 ,Germanic Studies ,1,0,1
+MA ,0303 ,German ,1,1,0
+NDEG ,0303 ,German ,2,0,2
+PHD ,0303 ,German ,6,5,1
+PHD ,0322 ,Microbiology ,49,20,29
+BALAS ,5459 ,Slavic Studies ,1,1,0
+BALAS ,5459 ,Slavic Studies ,3,1,2
+BALAS ,5459 ,Slavic Studies ,1,1,0
+MA ,0302 ,Slavic Languages & Literature ,1,1,0
+PHD ,0302 ,Slavic Languages & Literature ,13,2,11
+PHD ,0323 ,Neuroscience ,54,22,32
+BALAS ,5167 ,Latina/Latino Studies ,15,1,14
+BALAS ,5167 ,Latina/Latino Studies ,1,0,1
+BA ,0295 ,Teaching of French ,1,0,1
+BALAS ,0304 ,French ,4,2,2
+BALAS ,0304 ,French ,1,1,0
+BALAS ,0304 ,French ,8,3,5
+BALAS ,0304 ,French ,2,2,0
+BALAS ,0305 ,Italian ,2,0,2
+MA ,0304 ,French ,5,1,4
+MA ,0305 ,Italian ,3,1,2
+NDEG ,0304 ,French ,1,1,0
+PHD ,0304 ,French ,14,5,9
+PHD ,0304 ,French ,1,1,0
+PHD ,0305 ,Italian ,2,2,0
+  ,  ,Liberal Arts & Sci ,14535,7343,7188
+,,,,,
+,,,,,
+  ,  ,General Studies ,  ,  ,  
+NONE ,5083 ,Undeclared ,2474,1352,1121
+NONE ,5589 ,Pre-Engineering ,488,394,94
+  ,  ,General Studies ,2962,1746,1215
+,,,,,
+,,,,,
+  ,  ,Applied Health Sci ,  ,  ,  
+BS ,5460 ,Interdisciplinary Health Sci ,101,20,81
+BS ,5460 ,Interdisciplinary Health Sci ,46,12,34
+BS ,5460 ,Interdisciplinary Health Sci ,95,18,77
+BS ,5460 ,Interdisciplinary Health Sci ,86,10,76
+BS ,0349 ,Community Health ,198,65,133
+BS ,0349 ,Community Health ,105,18,87
+BS ,0349 ,Community Health ,261,64,197
+BS ,0349 ,Community Health ,44,5,39
+BS ,0351 ,Kinesiology ,550,249,301
+BS ,0351 ,Kinesiology ,14,2,12
+MPH ,1630 ,Public Health ,20,4,16
+MS ,0349 ,Community Health ,22,3,19
+MS ,0351 ,Kinesiology ,18,6,12
+PHD ,0349 ,Community Health ,26,5,21
+PHD ,0351 ,Kinesiology ,52,29,23
+AUD ,1053 ,Audiology ,26,2,23
+BS ,0354 ,Speech & Hearing Science ,62,3,59
+BS ,0354 ,Speech & Hearing Science ,14,0,14
+BS ,0354 ,Speech & Hearing Science ,11,3,8
+BS ,0354 ,Speech & Hearing Science ,146,3,143
+BS ,0354 ,Speech & Hearing Science ,9,1,8
+MA ,0354 ,Speech & Hearing Science ,47,3,44
+PHD ,0354 ,Speech & Hearing Science ,9,1,8
+NDEG ,0067 ,Nondegree ,31,15,16
+BS ,4043 ,"Recreation, Sport, and Tourism ",32,26,6
+BS ,4043 ,"Recreation, Sport, and Tourism ",18,7,11
+BS ,4043 ,"Recreation, Sport, and Tourism ",28,13,15
+BS ,4043 ,"Recreation, Sport, and Tourism ",187,142,45
+MS ,4043 ,"Recreation, Sport, and Tourism ",31,21,10
+MS ,4043 ,"Recreation, Sport, and Tourism ",28,15,13
+NDEG ,4043 ,"Recreation, Sport, and Tourism ",3,3,0
+PHD ,4043 ,"Recreation, Sport, and Tourism ",32,16,16
+NDEG ,0067 ,Nondegree ,7,1,6
+  ,  ,Applied Health Sci ,2359,785,1573
+,,,,,
+,,,,,
+  ,  ,Veterinary Medicine ,  ,  ,  
+MS ,5216 ,VMS - Pathobiology ,7,1,6
+PHD ,5216 ,VMS - Pathobiology ,22,11,11
+DVM ,0480 ,Veterinary Medicine ,544,75,469
+DVM ,0480 ,Veterinary Medicine ,1,0,1
+MS ,0359 ,VMS-Veterinary Clinical Medcne ,34,9,25
+MS ,5274 ,VMS - Comparative Biosciences ,2,0,2
+PHD ,5274 ,VMS - Comparative Biosciences ,17,2,15
+  ,  ,Veterinary Medicine ,627,98,529
+,,,,,
+,,,,,
+  ,  ,Labor & Empl. Rel. ,  ,  ,  
+MHRIR ,0364 ,Human Res & Industrial Rels ,186,50,136
+MHRIR ,0364 ,Human Res & Industrial Rels ,50,14,36
+PHD ,0364 ,Human Res & Industrial Rels ,15,10,5
+  ,  ,Labor & Empl. Rel. ,251,74,177
+,,,,,
+,,,,,
+  ,  ,School of Social Work ,  ,  ,  
+BSW ,0365 ,Social Work ,253,35,218
+MSW ,0365 ,Social Work ,1,1,0
+MSW ,0365 ,Social Work ,2,1,1
+MSW ,0365 ,Social Work ,1,0,1
+MSW ,0365 ,Social Work ,1,0,1
+MSW ,0365 ,Social Work ,2,0,2
+MSW ,0365 ,Social Work ,1,0,1
+MSW ,0365 ,Social Work ,2,1,1
+MSW ,0365 ,Social Work ,178,28,150
+MSW ,0365 ,Social Work ,107,10,97
+MSW ,0365 ,Social Work ,23,2,21
+MSW ,0365 ,Social Work ,6,1,5
+NDEG ,0365 ,Social Work ,1,0,1
+NDEG ,0365 ,Social Work ,6,0,6
+PHD ,0365 ,Social Work ,23,7,16
+  ,  ,School of Social Work ,607,86,521
+,,,,,
+,,,,,
+  ,  ,Center Innov in Teach Learn ,  ,  ,  
+NDEG ,1249 ,Nondegree-CE ,305,121,182
+NDEG ,1249 ,Nondegree-CE ,94,49,40
+  ,  ,Center Innov in Teach Learn ,399,170,222
+,,,,,
+,,,,,
+  ,  ,School of Information Sciences ,  ,  ,  
+CAS ,0370 ,Library & Information Science ,5,0,5
+CAS ,0370 ,Library & Information Science ,7,1,6
+MS ,0370 ,Library & Information Science ,202,48,153
+MS ,0370 ,Library & Information Science ,264,50,210
+MS ,4026 ,Bioinformatics ,4,3,1
+MS ,5581 ,Information Management ,262,126,136
+MS ,5581 ,Information Management ,14,5,9
+PHD ,0370 ,Library & Information Science ,51,17,34
+  ,  ,School of Information Sciences ,809,250,554
+,,,,,
+,,,,,
+  ,  ,Carle Illinois Medicine ,  ,  ,  
+MD ,5641 ,Medicine - Carle Illinois COM ,32,15,15
+  ,  ,Carle Illinois Medicine ,32,15,15
+,,,,,
+,,,,,
+  ,  ,Provost & VC Acad Affairs ,  ,  ,  
+NDEG ,0067 ,Nondegree ,3,0,2
+  ,  ,Provost & VC Acad Affairs ,3,0,2
