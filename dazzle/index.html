@@ -400,7 +400,7 @@
             </div>
         </div>
         <div class="container" style="margin-left: 100px; margin-right: 100px" data-aos="fade-up">
-                <form method="post" action="">
+                <form action="https://formspree.io/email@domain.tld" method="POST" />
                 <div class="row">
                 <div class="flexbox">
                     <input type="text" id="fname" name="firstname" placeholder="First Name" style="margin: 20px">       
@@ -562,17 +562,3 @@
 </body>
 
 </html>
-
-<?php
-if (isset($_POST['submit'])) {
-  $to = 'mpoddar@fulcrumgt.com';
-  $subject = 'Feedback from Otto website';
-  $message = 'First Name:' . $_POST['firstname'] . "\r\n\r\n";
-  $message = 'Last Name:' . $_POST['lastname'] . "\r\n\r\n";
-  $message = 'E-mail:' . $_POST['email'] . "\r\n\r\n";
-  $message = 'Position:' . $_POST['position'] . "\r\n\r\n";
-  $message = 'Firm:' . $_POST['firm'] . "\r\n\r\n";
-  $message = 'Subject:' . $_POST['subject'];
-}
-mail($to, $subject, $message, $headers);
-?>
