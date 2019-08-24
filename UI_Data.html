@@ -2,33 +2,63 @@
     <html>
     <head>
         <meta charset="UTF-8" />
-        <link rel="stylesheet" type="text/css" href="UI_Data/src/UI_Data.css" />
+        <link rel="stylesheet" type="text/css" href="UI_Data.css" />
         <title>Bar chart with UI Data</title>
         <script src="https://d3js.org/d3.v5.min.js"></script>
     </head>
 
     <body>
-        <div id="layout">
-        <div id="legend"><p style="background-color: white; border: lightgray solid; padding: 10px;
-                            border-width: 1px;margin: 10px;"><span style="color:#f57d6d">Female Dominated </span><br>
-                            <span style="color:#48d1cc">Male Dominated</span></div>
-        <div id="description">
-            <p id="text">
-            Used <i>Pandas</i> to analyze a dataset published by the University of Illinois at Urbana
-            Champaign(UIUC) showing <a href="http://www.dmi.illinois.edu/stuenr/"> Enrollment by Curriculum, 
-            Race, Sex, Residency</a>, to find the Top 10 majors with the most Gender Disparity, and the 
-            most Male and Female Dominated majors, from among majors
-            with at least 50 students. Used the <i>D3.js</i> library in <i>JavaScript,</i> along with <i>HTML</i> 
-            and <i>CSS</i>, to create an interactive bar graph showing the percentage of Gender Disparity in these majors.<br><br>
-            Hover your mouse pointer over the bars to see a comparison of gender disparity between majors.
-            </p>
+
+        <!-- NAVIGATION BAR -->
+        <div style="flex: 1; align-items: center">
+        <div class="topnav" id="myTopnav">
+            <a href="#home" class="active">HOME</a>
+            <a href="#news">NEWS</a>
+            <a href="#contact">CONTACT</a>
+            <a class="anchor" href="#description">ABOUT</a>
+            <a href="#home" style="font-weight: 400; float: left; color: white; font-size: 15px">Disparities between College Majors</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+            <script>
+                function myFunction() {
+                    var x = document.getElementById("myTopnav");
+                    if (x.className === "topnav") {
+                        x.className += " responsive";
+                    } else {
+                        x.className = "topnav";
+                    }
+                }
+            </script>
         </div>
-        <div id="container2"><svg id="vec2"></svg></div>
+        </div>
+
+
+        <div id="layout">
+        <div id="description">
+            <h2>ABOUT</h2>
+                <p id="text" style="text-align: center">
+                Used <i>Pandas</i> to analyze a dataset published by the University of Illinois at Urbana
+                Champaign (UIUC) showing <a href="http://www.dmi.illinois.edu/stuenr/"> Enrollment by Curriculum, 
+                Race, Sex, Residency</a>, to find the Top 10 majors with the most Gender Disparity, and the 
+                most Male and Female Dominated majors, from among majors
+                with at least 50 students. Used the <i>D3.js</i> library in <i>JavaScript,</i> along with <i>HTML</i> 
+                and <i>CSS</i>, to create an interactive bar graph showing the percentage of Gender Disparity in these majors.<br><br>
+                Hover your mouse pointer over the bars to see a comparison of gender disparity between majors.
+                </p>
+        </div>
+        <!-- <div id="legend"><p style="background-color: white; border: lightgray solid; padding: 10px;
+                            border-width: 1px;margin: 10px;"><span style="color:#f57d6d">Female Dominated </span><br>
+                            <span style="color:#48d1cc">Male Dominated</span></div> -->
+        
+        <!-- <div id="container2"><svg id="vec2"></svg></div> -->
+        <svg id="chart" class="chart3" width="1100" height="375" style="margin-top: 5rem; margin-bottom: 5rem"></svg>
         <script src="UI_Data/src/UI_Data_Gender.js"></script>
-        <div id="container"><svg id="vec"></svg></div>
+        <div id="container"><svg class="svg_other" id="vec"></svg></div>
         <script src="UI_Data/src/UI_Data_Male.js"></script>
     </div>
-        <div id="container1"><svg id="vec1"></svg></div>
+        <div id="container1"><svg class="svg_other" id="vec1"></svg></div>
         <script src="UI_Data/src/UI_Data_Female.js"></script>
+        
     </body>
     </html>

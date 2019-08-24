@@ -1,0 +1,216 @@
+    body {
+        font-family: "Avenir";
+        font-weight: "400";
+    }
+    div#layout {
+        text-align: center;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    div#legend {
+        width: 300 px;
+        height: 300 px;
+        position: absolute;
+        margin-top: 90px;
+        margin-left: 140px;
+    }
+    div#description {
+        width: 50% ;
+        /* position: relative; */
+        padding-top: 100px;
+       text-align: center;
+       margin-left:auto;
+       margin-right: auto;
+    }
+    div#container {
+        width: 1000px;
+        height: 600px;
+        margin-left: 20px;
+        background-color: white;
+    }
+    div#container1 {
+        width: 1000px;
+        height: 600px;
+        margin-left: 20px;
+        background-color: white;
+    }
+    div#container2 {
+        width: 1000px;
+        height: 600px;
+        margin-left: 20px;
+        background-color: white;
+    }
+    p {
+        /* margin-top: 30%;
+        margin-right: 10%; */
+        text-align: left;
+        color: black;
+        font-size: 13px;
+    }
+    h3 {
+        color: white;
+        font-family: "Avenir";
+        font-weight: "400";
+        font-size: 13px;
+    }
+    h2 {
+        color: black;
+        font-family: "Avenir";
+        font-weight: "300";
+        font-size: 28px;
+    }
+    a {
+        color: #2ca8c4;
+    }
+    /* svg {
+        width: 100%;
+        height: 100%;
+    } */
+    .svg_other {
+        width: 100%;
+        height: 100%;
+    }
+    .barchanged {
+        fill: #00a6ae;
+    }
+    .bar {
+        fill: #ffbf00;
+    }
+    text {
+        font-size: 10px;
+        fill: black;
+    }
+    
+    path {
+        stroke: gray;
+    }
+    
+    line {
+        stroke: gray;
+    }
+    
+    line#limit {
+        stroke: black;
+        stroke-width: 2;
+        opacity: 0.5;
+        stroke-dasharray: 7 7;
+    }
+    
+    .grid path {
+        stroke-width: 0;
+    }
+    
+    .grid .tick line {
+        stroke: #9faaae;
+        stroke-opacity: 0.3;
+    }
+    
+    text.divergence {
+        font-size: 14px;
+        fill: white;
+    }
+    
+    text.value {
+        font-size: 12px;
+        fill: white;
+    }
+    
+    text.title {
+        font-size: 22px;
+        font-weight: 600;
+    }
+    
+    text.label {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    
+    text.source {
+        font-size: 10px;
+    }
+    
+
+    /* Add a black background color to the top navigation */
+.topnav {
+    background-color: #222222;
+    overflow: hidden;
+    position: fixed;
+    width: 70%;
+    top: 0;
+    left: 15%;
+
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #a0a0a0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: 1.5px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    color: #ffd300;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    /* background-color: #ffbf00; */
+    color: #fff;
+  }
+
+
+  @media screen and (max-width: 600px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+  @media screen and (max-width: 600px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+
+  .chart3,
+  .axis {
+    font-family: 'Avenir';
+    font-size: 1em;
+  }
+  
+  .title {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  .bar { stroke:white }
+  
+  .bar--female { fill: #2ca8c4; }
+  .bar--male   { fill: rgb(30,61,86); }
+  
+  .axis .domain,
+  .axis--y .tick line {
+    display: none;
+  }
+  
+  .label { font-size: 0.75em; fill: white }
+  .label text { color: white }
+  .axis--y {
+      width: 100px
+  }
+  .axis--y text { alignment-baseline: after-edge; }
