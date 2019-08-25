@@ -340,7 +340,7 @@
       top: 50,
       right: 0,
       bottom: 20,
-      left: 220,
+      left: 280,
     };
     var width = chart3.attr('width') - margin.left - margin.right;
     var height = chart3.attr('height') - margin.top - margin.bottom;
@@ -412,21 +412,21 @@
     
     chart3.append('text')
       .attr('class', 'axis axis--x')
-      .attr('x', width / 4 + 220)
+      .attr('x', width / 4 + 280)
       .attr('y', height + margin.top + margin.bottom)
       .attr('text-anchor', 'middle')
       .text('Female');
     
     chart3.append('text')
       .attr('class', 'axis axis--x')
-      .attr('x', width * .75 + 220 )
+      .attr('x', width * .75 + 280 )
       .attr('y', height + margin.top + margin.bottom)
       .attr('text-anchor', 'middle')
       .text('Male');
     
     chart3.append('text')
       .attr('class', 'title')
-      .attr('x', width / 2 + 110)
+      .attr('x', width / 2 + 140)
       .attr('y', 25)
       .attr('text-anchor', 'middle')
       .text('Top 10 Majors with Most Gender Disparity');

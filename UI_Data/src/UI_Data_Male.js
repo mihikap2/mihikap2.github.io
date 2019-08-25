@@ -2,52 +2,52 @@ const sample = [
     {
       major: 'Computer Eng.',
       value: 74.3,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Eng. Mechanics',
       value: 71.4,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Physics',
       value: 58.8,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Math & CS',
       value: 65.2,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Eng. Physics',
       value: 65.8,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Aerospace Eng.',
       value: 69.6,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Mechanical Eng.',
       value: 56.0,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Stats & CS',
       value: 48.8,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Electrical Eng.',
       value: 72.2,
-      color: '#ffd700'
+      color: "#1e3d56"
     },
     {
       major: 'Technical Systems',
       value: 80.3,
-      color: '#ffd700'
+      color: "#1e3d56"
     }
   ];
 
@@ -90,7 +90,7 @@ const sample = [
 
   barGroups
     .append('rect')
-    .attr('class', 'bar')
+    .attr('class', 'bar1')
     .attr('x', (g) => xScale(g.major))
     .attr('y', (g) => yScale(g.value))
     .attr('height', (g) => height - yScale(g.value))
@@ -103,7 +103,7 @@ const sample = [
         .transition()
         .duration(300)
         .attr('opacity', 0.6)
-        .style("fill",actual.color)
+        .style("fill","#1e3d56")
         .attr('x', (a) => xScale(a.major) - 5)
         .attr('width', xScale.bandwidth() + 10)
 
@@ -140,7 +140,7 @@ const sample = [
       d3.select(this)
         .transition()
         .duration(300)
-        .style("fill","#ffbf00")
+        .style("fill","#1e3d56")
         .attr('opacity', 1)
         .attr('x', (a) => xScale(a.major))
         .attr('width', xScale.bandwidth())
@@ -172,18 +172,4 @@ const sample = [
     .attr('y', height + margin * 1.7)
     .attr('text-anchor', 'middle')
     .text('Majors')
-
-  svg.append('text')
-    .attr('class', 'title')
-    .attr('x', width / 2 + margin)
-    .attr('y', 40)
-    .attr('text-anchor', 'middle')
-    .text('Most Male Dominated Majors in UIUC (Fall 2018)')
-  
-    svg.append('text')
-    .attr('class', 'source')
-    .attr('x', width - margin / 2)
-    .attr('y', height + margin * 1.7)
-    .attr('text-anchor', 'start')
-    .text('Mihika Poddar')
 

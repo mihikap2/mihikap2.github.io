@@ -2,53 +2,53 @@ const sample1 = [
     {
       major: "Social Work",
       value: 72.3,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },
     {
       major: "Special Education",
       value: 72.9,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },
     {
       major: "English",
       value: 51.9,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },
     {
       major: "Elementary Education",
       value: 86.4,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },
     {
       major: "Psychology",
       value: 54.6,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },
     {
       major: "Animal Sciences",
       value: 66.5,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },    
     {
       major: "Health Science",
       value: 66.0,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },
     {
       major: "HDFS",
       value: 82.6,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },
     
     {
       major: "Speech & Hearing Sci",
       value: 94.2,
-      color: "#ffd700"
+      color: "#2ca8c4"
     },
     {
       major: "FSHN",
       value: 50.2,
-      color: "#ffd700"
+      color: "#2ca8c4"
     }
   ];
 
@@ -146,7 +146,7 @@ const sample1 = [
       d3.select(this)
         .transition()
         .duration(300)
-        .style("fill","#ffbf00")
+        .style("fill","#2CA8C4")
         .attr("opacity", 1)
         .attr("x", a => xScale1(a.major))
         .attr("width", xScale1.bandwidth());
@@ -166,7 +166,7 @@ const sample1 = [
   svg1
     .append("text")
     .attr("class", "label")
-    .attr("x", -(height / 2) - margin)
+    .attr("x", -(height ) - margin)
     .attr("y", margin / 2.4)
     .attr("transform", "rotate(-90)")
     .attr("text-anchor", "middle")
@@ -180,18 +180,4 @@ const sample1 = [
     .attr("text-anchor", "middle")
     .text("Majors");
 
-  svg1
-    .append("text")
-    .attr("class", "title")
-    .attr("x", width / 2 + margin)
-    .attr("y", 40)
-    .attr("text-anchor", "middle")
-    .text("Most Female Dominated Majors in UIUC (Fall 2018)");
-
-  svg1
-    .append("text")
-    .attr("class", "source")
-    .attr("x", width - margin / 2)
-    .attr("y", height + margin * 1.7)
-    .attr("text-anchor", "start")
-    .text("Mihika Poddar");
+ 

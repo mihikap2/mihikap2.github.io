@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <link rel="stylesheet" type="text/css" href="UI_Data.css" />
+        <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
         <title>Bar chart with UI Data</title>
         <script src="https://d3js.org/d3.v5.min.js"></script>
     </head>
@@ -54,11 +55,12 @@
         <!-- <div id="container2"><svg id="vec2"></svg></div> -->
         <svg id="chart" class="chart3" width="1100" height="375" style="margin-top: 5rem; margin-bottom: 5rem"></svg>
         <script src="UI_Data/src/UI_Data_Gender.js"></script>
-        <div id="container"><svg class="svg_other" id="vec"></svg></div>
-        <script src="UI_Data/src/UI_Data_Male.js"></script>
-    </div>
-        <div id="container1"><svg class="svg_other" id="vec1"></svg></div>
+
+        <div id="container1"><svg id="vec1" width="800" height="400"></svg></div>
         <script src="UI_Data/src/UI_Data_Female.js"></script>
-        
+
+        <div id="container"><svg id="vec" width="800" height="400"></svg></div>
+        <script src="UI_Data/src/UI_Data_Male.js"></script>
+    </div>   
     </body>
     </html>
