@@ -53,6 +53,11 @@ const sample = [
 
   const svg = d3.select('#vec');
   const svgContainer = d3.select('#container');
+
+  margin = 100;
+  width = 1000 - 2 * margin;
+  height = 600 - 2 * margin;
+
   
   const chart = svg.append('g')
     .attr('transform', `translate(${margin}, ${margin})`);

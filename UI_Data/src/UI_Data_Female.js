@@ -55,6 +55,10 @@ const sample1 = [
   const svg1 = d3.select("#vec1");
   const svgContainer1 = d3.select("#container1");
 
+   margin = 100;
+   width = 1000 - 2 * margin;
+   height = 600 - 2 * margin;
+
   const chart1 = svg1
     .append("g")
     .attr("transform", `translate(${margin}, ${margin})`);
