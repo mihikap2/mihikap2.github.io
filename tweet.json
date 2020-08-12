@@ -10,6 +10,16 @@
           "boston"
         ]
       },
+	{
+        "user": "@acmecorp",
+        "message": "We're hiring in San Francisco!",
+        "timestamp": "2020-08-12",
+        "matching_terms": [
+          "acme",
+          "hiring",
+          "san francisco"
+        ]
+      },
       {
         "user": "@acmecorp",
         "message": "We're hiring in New York!",
