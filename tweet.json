@@ -1,0 +1,54 @@
+{
+    "tweet": [
+      {
+        "user": "@acmecorp",
+        "message": "We're hiring in Boston!",
+        "timestamp": "2020-08-08",
+        "matching_terms": [
+          "acme",
+          "hiring",
+          "boston"
+        ]
+      },
+      {
+        "user": "@acmecorp",
+        "message": "We're hiring in New York!",
+        "timestamp": "2020-08-12",
+        "matching_terms": [
+          "acme",
+          "hiring",
+          "new york"
+        ]
+      },
+      {
+        "user": "@acmecorp",
+        "message": "We're still hiring in Boston!",
+        "timestamp": "2020-08-05",
+        "matching_terms": [
+          "acme",
+          "hiring",
+          "boston"
+        ]
+      },
+      {
+        "user": "@acmecorp",
+        "message": "We're hiring in Boston!",
+        "timestamp": "2019-02-28",
+        "matching_terms": [
+          "acme",
+          "hiring",
+          "boston"
+        ]
+      },
+      {
+        "user": "@acmecorp",
+        "message": "We're no longer hiring in Timbuktu",
+        "timestamp": "2019-02-27",
+        "matching_terms": [
+          "acme",
+          "hiring",
+          "timbuktu"
+        ]
+      }
+    ]
+  }
