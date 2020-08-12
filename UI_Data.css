@@ -1,5 +1,5 @@
     body {
-        font-family: "Montserrat";
+        font-family: "Montserrat", sans-serif;
         font-weight: "400";
     }
     div#layout {
@@ -23,15 +23,13 @@
        margin-right: auto;
     }
     div#container {
-        width: 100%;
-        height: 100%;
+
         margin-left: auto;
         margin-right: auto;
         background-color: white;
     }
     div#container1 {
-        width: 100%;
-        height: 100%;
+
         margin-left: auto;
         margin-right: auto;
         background-color: white;
@@ -51,15 +49,22 @@
     }
     h3 {
         color: white;
-        font-family: "Montserrat";
+        font-family: "Montserrat", sans-serif;
         font-weight: "400";
         font-size: 13px;
     }
     h2 {
         color: black;
-        font-family: "Montserrat";
+        font-family: "Montserrat", sans-serif;
         font-weight: "300";
         font-size: 28px;
+    }
+    h4 {
+        color: black;
+        font-family: "Montserrat", sans-serif;
+        font-weight: "300";
+        font-size: 1em;
+        margin: 0;
     }
     a {
         color: #2ca8c4;
@@ -82,7 +87,8 @@
         fill: rgb(30,61,86);
     }
     text {
-        font-size: 10px;
+        font-family: "Montserrat", sans-serif;
+        font-size: 8px;
         fill: black;
     }
     
@@ -194,7 +200,7 @@
 
   .chart3,
   .axis {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-size: 1em;
   }
   

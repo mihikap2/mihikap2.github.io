@@ -3,8 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <link rel="stylesheet" type="text/css" href="UI_Data.css" />
-        <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
-        <title>Bar chart with UI Data</title>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">        <title>Bar chart with UI Data</title>
         <script src="https://d3js.org/d3.v5.min.js"></script>
     </head>
 
@@ -44,7 +43,7 @@
                 Race, Sex, Residency</a>, to find the Top 10 majors with the most Gender Disparity, and the 
                 most Male and Female Dominated majors, from among majors
                 with at least 50 students. Used the <i>D3.js</i> library in <i>JavaScript,</i> along with <i>HTML</i> 
-                and <i>CSS</i>, to create an interactive bar graph showing the percentage of Gender Disparity in these majors.<br><br>
+                and <i>CSS</i>, to create interactive bar graphs showing the percentage of Gender Disparity in these majors.<br><br>
                 Hover your mouse pointer over the bars to see a comparison of gender disparity between majors.
                 </p>
         </div>
@@ -56,10 +55,12 @@
         <svg id="chart" class="chart3" width="1100" height="375" style="margin-top: 5rem; margin-bottom: 5rem"></svg>
         <script src="UI_Data/src/UI_Data_Gender.js"></script>
 
-        <div id="container1"><svg id="vec1" width="800" height="400"></svg></div>
+        <h4 style="font-size: 1.4em">Most Female Dominated Majors</h4>
+        <div id="container1"><svg id="vec1" width="1000" height="550" style="margin-top: -3em"></svg></div>
         <script src="UI_Data/src/UI_Data_Female.js"></script>
-
-        <div id="container"><svg id="vec" width="800" height="400"></svg></div>
+        
+        <h4 style="font-size: 1.4em; margin-top: 1em">Most Male Dominated Majors</h4>
+        <div id="container"><svg id="vec" width="1000" height="550" style="margin-top: -3em"></svg></div>
         <script src="UI_Data/src/UI_Data_Male.js"></script>
     </div>   
     </body>
